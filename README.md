@@ -1,9 +1,9 @@
-#LPVDN
+# LPVDN
 
 This repo implements the **LPVDN** (Locality Preserving Variational Discriminative Network) proposed in the paper 
 **Learning Robust Representation for Clustering through Locality Preserving Variational Discriminative Network**
 
-#Usage (Pytorch 1.5)
+## Usage (Pytorch 1.5)
 
 To train LPVDN on MNIST dataset with default setting, simply do:
 
